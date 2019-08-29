@@ -31,7 +31,7 @@ Also, I use the [KiCad][6] to draw the electric circuit schematic.
 
 ## Author
 Hiroshi Murakami  
-<https://github.com/ClockWorks001>  
+<https://www.planetxgear.com/>  
 
 [1]: http://www.microchip.com/pagehandler/en-us/family/mplabx/ "MPLAB X"
 [2]: http://www.microchip.com/mplab/mplab-code-configurator "MPLAB Code Configurator "
