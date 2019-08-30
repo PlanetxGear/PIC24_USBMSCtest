@@ -6,7 +6,11 @@ This is a simple USB MSC Class Test Project with [PIC24FJ64GB002 micro controlle
 I don't use [MLA][6](Microchip Livraries for Applications). I directly manipulate the USB registers.
 You can operat it by terminal with serial communication speed of 115,200 bps.
 
-##References.
+## Picture
+![Alt text](/Picture/20190822_IMG_2250.JPG)
+
+
+## References.
 <http://ww1.microchip.com/downloads/en/DeviceDoc/39721b.pdf>
 <http://ww1.microchip.com/downloads/jp/DeviceDoc/39721B_JP.pdf>
 <http://www.picfun.com/usb03.html>
