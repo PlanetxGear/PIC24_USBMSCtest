@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name transistors)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/transistors.lib)(options "")(descr ""))
+  (lib (name conn)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/conn.lib)(options "")(descr ""))
+  (lib (name linear)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/linear.lib)(options "")(descr ""))
+  (lib (name regul)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/regul.lib)(options "")(descr ""))
+  (lib (name microcontrollers)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/microcontrollers.lib)(options "")(descr ""))
+  (lib (name microchip)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/microchip.lib)(options "")(descr ""))
+  (lib (name USBMSCtest-rescue)(type Legacy)(uri ${KIPRJMOD}/USBMSCtest-rescue.lib)(options "")(descr ""))
+)
